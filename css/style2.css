@@ -1,0 +1,10 @@
+@charset "utf-8";
+.button input{
+  background: #D31024;
+  height: 32px;
+  max-width: 215;
+  padding-left: 0;
+  cursor: pointer;
+  color: #ffffff;
+  border-bottom-left-radius: 20px;
+}
